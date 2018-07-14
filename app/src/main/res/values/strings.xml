@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Basket</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
